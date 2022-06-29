@@ -1,0 +1,33 @@
+ol, ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    padding-left: 0rem;
+}
+
+.syllabus__flex{
+    display: flex;
+    box-sizing: border-box;
+ 
+}
+.accordian__syllabus-icon{
+    display: block;
+    color: blue;
+    size: 20;
+    margin-top: 0.3rem;
+}
+.according__list_p{
+    margin:0 0 0 0.7rem;
+    padding: 0;
+}
+.accordian_heading-title{
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: 1rem;
+}
+.accordian__container{
+    width: 100%;
+    box-sizing: border-box;
+}

@@ -1,0 +1,26 @@
+.footer {
+  margin-top: 45px;
+  margin-bottom: 25px;
+
+  color: #b6a3af;
+  /* display: flex; */
+  /* justify-content: space-between; */
+}
+
+.footer ul {
+  display: flex;
+  list-style: none;
+}
+.footer ul li {
+  padding-left: 25px;
+  color: #b6a3af;
+}
+.greycolor {
+  color: #b6a3af;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.greycolor:hover {
+  color: #6b7280;
+}

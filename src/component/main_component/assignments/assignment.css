@@ -1,0 +1,30 @@
+
+ 
+  .assignment{
+    width: 100%;
+    height: auto;
+    padding:1rem 1rem 2.8rem 1rem;
+  }
+  .text-assi{
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+  }
+  .assignment__paragraph{
+    font-size: .875rem;
+    line-height: 1.25rem;
+  }
+  .project-box {
+    width:auto;
+    height: 350px;
+    border: 2px dashed gray;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .assignment__icon{
+    padding-bottom: 1px;
+  }

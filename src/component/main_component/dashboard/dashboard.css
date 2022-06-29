@@ -1,0 +1,342 @@
+.lms-dashboard{
+    width: 100%;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    
+}
+.live_lecture{
+    padding-top: 25px;
+    padding-left: 12px;
+}
+.text-block{
+    display: block;
+    margin-left: 15px;
+}
+.lms_main{
+    margin-left: 100px;
+}
+
+.lms-card{
+    margin-top: 30px;
+    border: 5px solid black;
+    width: 30%;
+    margin-left: 10px;
+}
+.text-date{
+    font-size: .875rem;
+    line-height: 1.25rem;
+}
+.card-title{
+    font-weight: 600;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+}
+.inst-height{
+    font-size: .75rem;
+    line-height: 1rem;
+}
+.inst-name{
+    font-weight: 700;
+    /* color: rgb(49 46 129); */
+}
+.inst-color{
+    color: rgb(49 46 129);
+}
+.font-mg{
+    font-weight: 600;
+    font-size: .75rem;
+    line-height: 1rem;
+}
+.text_upcoming{
+    text-decoration: none;
+    line-height: 1rem;
+    color: black;
+}
+.Lmshome_main{
+    display:flex;
+    justify-content:center;
+}
+.Lms_hero_sec_navbar{
+    
+    width: 100%;
+    padding: 15px;
+    text-align: center;
+}
+.lms_hero_link{
+    border-bottom: 1px solid rgb(228, 225, 225);
+    padding: 5px;
+    cursor:pointer;
+    height:50px
+}
+.lms_hero_link:hover{
+    border-bottom: 1px solid blue;
+    color:blue;
+}
+.lms_hero_Link_text{
+    text-decoration: none;
+    
+
+}
+
+
+.lms_hero_Link_text:active {
+  color: blue;
+}
+
+
+.lms-dashboard{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    
+}
+.lms-dashboard-main{
+    width: 100%;
+   
+    padding: 2px;
+}
+.text-block{
+    display: block;
+}
+.text-date{
+    font-size: .875rem;
+    line-height: 1.25rem;
+}
+.Lmshome_main{
+    display:flex;
+    justify-content:center;
+}
+.card-title{
+    font-weight: 600;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+}
+.inst-height{
+    font-size: .75rem;
+    line-height: 1rem;
+}
+.inst-name{
+    font-weight: 700;
+}
+.inst-color{
+    color: rgb(49 46 129);
+}
+.font-wg{
+    font-weight: 600;
+    font-size: .75rem;
+    line-height: 1rem;
+}
+.text_upcoming{
+    text-decoration: none;
+    line-height: 1rem;
+    color: black;
+}
+
+.text-live{
+    margin-left: 15px;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+.text-stats{
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 1.5rem;
+
+}
+
+.text-att{
+    color: rgb(17 24 39);
+    font-weight: 500;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    margin-top: 5px;
+
+    
+}
+.text-out{
+    display: block;
+    
+
+}
+
+.text-o{
+ font-weight: 600;
+ font-size: 1.5rem;
+    line-height: 2rem;
+}
+
+.Live_Recordings{
+    margin: 10px;
+    padding: 10px;
+    /* text-align: center; */
+    height: 200px;
+}
+
+.Lms-dashboard-progress{
+    margin-top:30px;
+    padding:10px
+}
+.lms_upload_Sec{
+
+    display: flex;
+    width: 70%;
+    flex-direction: column;
+    border:4px solid lightgray; 
+    border-style: dashed;  
+    height:400px;
+    border-radius:5px;
+    /* margin:auto; */
+    margin-bottom: 120px;
+    text-align:center;
+    justify-content:center;
+}
+.upload_icon{
+    
+    transform: scale(1.9);
+    margin: 10px;
+}
+.my-custom-scrollbar {
+    position: relative;
+    overflow: auto;
+    height: 600px;
+    }
+    .table-wrapper-scroll-y {
+    display: block;
+    }
+    .Table_text {
+    color: blue;
+    }
+
+.Lms-dashboard-stats {
+    border-radius: 10px;
+    width: 320px;
+    height: 90px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+
+}
+
+.stats_logo {
+    
+    height: 60px;
+    width: 60px;
+    margin-top: 5px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    background-color: #6366F1;
+    
+    
+    
+
+}
+
+.Stat_icon {
+    transform: scale(2.8);
+    margin: 10px;
+    color: #0D6EFD;
+    
+
+
+}
+.scrolling-wrapper-flexbox {  flex-wrap: nowrap;    overflow-x: scroll; overflow-y: hidden;  
+    }
+.card {    flex: 0 0 auto;  }    
+
+.LmsAssignments{
+    
+    height: 550px;
+}
+
+.text-assi{
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+}
+
+.table-text{
+
+    font-weight: 500;
+    font-size: .75rem;
+    line-height: 1rem;
+    color: rgb(107 114 128);
+    border: 1px solid #e5e7eb;
+     background-color:  #FFFFFF; 
+     border-left: none;
+     border-right: none;
+     
+}
+.border-rad{
+    border-radius: 5px;
+}
+
+.LmsSyllabus{
+    
+    height: auto;
+    padding: 10px;
+    padding-bottom: 10px;
+}
+.text-upper{
+    text-transform: uppercase;
+}
+
+.flutter-text{
+    font-weight: 700;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+}
+.navbar-toggler-icon {
+    background-color: #FFFFFF;
+}
+
+.card-size{
+    padding: 5px 5px!important;
+}
+.card-icon{
+    margin-bottom: 4px;
+}
+.myprogress {
+    display: flex;
+    justify-content: space-between;
+  }
+  /*  */
+  .myPercentage {
+    background-color: white;
+    padding-left: 10px;
+    font-weight: 700;
+  }
+
+  .user-person{
+      width: 70%;
+      
+  }
+
+  @media (max-width: 200px) {
+      .lms-stats{
+          width: auto!important;
+          height: 20%!important;
+      }
+  }
+
+  .icon-color{
+      color: white;
+      
+      width: 100px;
+  }
+
+  .myprogress{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+    /* color: #6366F1; */
+    border-radius: 50px 50px!important;
+
+  }
+
+  
+  .progress-bar{
+      background-color: #6366F1!important;
+      /* border-radius: 50px; */
+  }
+
+/*  */
